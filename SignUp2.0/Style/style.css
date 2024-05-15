@@ -1,0 +1,174 @@
+
+body{
+  background-color: gainsboro;
+  cursor: pointer;
+}
+
+.Overall-div{
+  background-color: white;
+  height: 500px;
+  width: 800px;
+  margin-top: 90px;
+  margin-left: 300px;
+  border-radius: 10px;
+  margin-bottom: 50px;
+  display: inline-block;
+}
+.div1{
+  height: 480px;
+  width: 760px;
+  margin-left: 1px;
+  border-radius: 10px;
+  margin-top: 8px;
+
+}
+.image{
+  width: 470px;
+  border-radius: 10px;
+  margin-left: 10px;
+  margin-top: 5px;
+}
+.Paragraph-1{
+  margin-top: -100px;
+  color: white;
+  margin-left: 20px;
+}
+.Paragraph-2{
+  color: white;
+  margin-left: 29px;
+}
+.Paragraph-3{
+  color: white;
+  margin-top: -10px;
+  margin-left: 28px;
+  font-size: 11px;
+}
+.Paragraph-4{
+  color: aqua;
+  margin-top: -10px;
+  margin-left: 28px;
+  font-size: 11px;
+}
+.left-div{
+  margin-left: 550px;
+  margin-top: -400px;
+}
+.Paragraph-5{
+  font-weight: bold;
+  font-size: 20px;
+  font-family: Arial;
+}
+.Paragraph-6{
+  color: gray;
+  font-size: 10px;
+  margin-top: -15px;
+  margin-left: 2px;
+}
+.Last-Paragraph{
+  margin-top: 50px;
+    color: gray;
+    font-size: 12px;
+    padding-left: 20px;
+}
+.Login{
+  color:  rgb(58, 144, 248);
+}
+.button-1{
+  margin-top: 10px;
+  margin-left: 2px;
+  padding-right: 160px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  border-color: gainsboro;
+  border-width: 0.5px;
+  border-radius: 4px;
+  background-color: white;
+  color: grey;
+}
+.button-2{
+  margin-top: 10px;
+  margin-left: 2px;
+  padding-right: 135px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  border-color: gainsboro;
+  border-width: 0.5px;
+  border-radius: 4px;
+  background-color: white;
+  color: grey;
+}
+.button-3{
+  margin-top: 10px;
+  margin-left: 2px;
+  padding-right: 75px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  border-color: gainsboro;
+  border: none;
+  border-radius: 5px;
+  background-color: rgb(58, 144, 248);
+}
+.CA{
+  font-size: 9.5px;
+  padding-left: 58px;
+  color: white;
+}
+.button-4{
+  margin-top: 10px;
+  margin-left: 2px;
+  padding-right: 62px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  border-color: gainsboro;
+  border-width: 0.5px;
+  border-radius: 5px;
+  background-color: white;
+  position: relative;
+}
+.CG{
+  font-size: 9px;
+  padding-left: 40px;
+  color: black;
+  font-weight: bold;
+}
+
+.button-5{
+  margin-top: 10px;
+  margin-left: 2px;
+  padding-right: 62px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  border-color: gainsboro;
+  border-width: 0.5px;
+  border-radius: 5px;
+  background-color: white;
+  position: relative;
+}
+.CF{
+  font-size: 8px;
+  padding-left: 40px;
+  color: black;
+  font-weight: bolder;
+}
+.Google-logo{
+  width: 20px;
+  padding-right: 100px;
+  position: absolute;
+  display: flex;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  padding-left: 10px;
+  padding-top: 5px;
+}
+.Facebook-logo{
+  width: 30px;
+  padding-right: 100px;
+  position: absolute;
+  display: flex;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  padding-left: 6px;
+  padding-top: 6px;
+}
